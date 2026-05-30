@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit
 //   Emulator Android Studio  → http://10.0.2.2/financeapp/
 //   HP fisik (WiFi sama)     → http://192.168.x.x/financeapp/
 // ============================================================
-const val BASE_URL = "http://192.168.1.7/financeapp/"
+const val BASE_URL = "http://10.173.60.125/financeapp/"
 
 interface ApiService {
 
